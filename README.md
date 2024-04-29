@@ -103,55 +103,6 @@ After successful login, it redirects to the homepage shown below
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- GETTING STARTED -->
-### <a name="getting-started"></a>Getting Started
-Follow these steps to get this project up and running on your local machine.
-
-<!-- Prerequisites -->
-#### Prerequisites
-Ensure your development environment includes the following:
-* <b>Node.js</b>: Install Node.js (v14.x or higher) from nodejs.org.
-* <b>npm or Yarn</b>: Choose either npm (v6.x or higher) or Yarn (v1.22 or higher) as your package manager.
-* XAMPP web server
-* Any Editor (Preferably VS Code or Sublime Text)
-* Any web browser with latest version
-
-
-<!-- Installation -->
-#### Installation
-**1. Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Yasaswini-3004/CodeCrafters-Brillio.git
-```
-**2. Navigate to the project directory:**
-```bash
-cd your-project
-```
-**3. Install dependencies:**<br>
-Using npm:
-```bash
-npm install
-```
-Using Yarn:
-```bash
-yarn install
-```
-#### <a name="running"></a>Running the Application
-Start the development server:
-```bash
-npm start
-```
-or
-```bash
-yarn start
-```
-Access the application at http://localhost:3000 in your browser.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- System Architecture -->
 ### <a name="system-architecture"></a>System Architecture
 Here's a high-level overview of our system architecture, illustrating the interconnected components and their functionalities.<br><br>
