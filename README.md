@@ -3,32 +3,6 @@
   <h2 align="center">Streamlining Recruitment Process with Open AI</h2>
 </div>
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#problem-statement">Problem Statement</a></li>
-    <li><a href="#proposed-solution">Proposed Solution</a></li>
-    <li>
-      <a href="#built-with">Built With</a>
-    </li>
-    <li><a href="#output">Output</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#running">Running the Application</a></li>
-      </ul>
-    </li>
-    <li><a href="#system-architecture">System Architecture</a></li>
-   <!-- <li><a href="#about-us">About Us</a></li>-->
-    <li><a href="#ack">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
 <!-- Problem Statement  -->
 ### <a name="problem-statement"></a> Problem Statement: Bridging the Talent Gap with Automated Recruitment Lifecycle Management
 <div align="justify">
